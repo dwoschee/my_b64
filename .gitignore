@@ -1,0 +1,4 @@
+*.swp
+*.o
+my_b64
+test*
